@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+a {
+  padding: 10px 20px;
+  background-color: blue;
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  border: none;
+  text-decoration: none;
+}
